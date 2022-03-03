@@ -1,0 +1,34 @@
+body{
+    background-color: #f0efeb;
+}
+
+header { 
+    color: #723c70;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    color: #2e6f95;
+    font-style: italic;
+}
+#producto{
+    color: #2e6f95;
+    border-bottom-style: dashed;
+    border-bottom-color: black;
+    margin-right: 25cm;
+    font-style: italic;
+}
+#descuento{
+    color: #2e6f95;
+    border-bottom-style: dashed;
+    border-bottom-color: black;
+    margin-right: 25cm;
+    font-style: italic;
+}
+#total{
+    color: #2e6f95;
+    border-bottom-style: dashed;
+    border-bottom-color: black;
+    margin-right: 25cm;
+    font-style: italic;
+}

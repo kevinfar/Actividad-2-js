@@ -1,0 +1,15 @@
+body{
+    color: #f0efeb;
+}
+header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #e5383b;
+}
+p{
+    color: #15616d;
+    font-style: italic;
+}
+#total{
+    color: #15616d;
+    font-style: italic;
+}

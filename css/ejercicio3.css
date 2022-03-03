@@ -1,0 +1,19 @@
+body{
+    background-color: #e7ecef;
+}
+header{
+    color: #a71e34;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    color: #415a77;
+    font-style: italic;
+}
+#notas{
+    color: #415a77;
+    font-style: italic;
+}
+#promedio{
+    color: #415a77;
+    font-style: italic;
+}

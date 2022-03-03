@@ -1,0 +1,16 @@
+body {
+    background-color: #F3DFA2;
+}
+header {
+    color: #540b0e;
+    font-style: italic;
+}
+
+#Ejercicio {
+    font-style: italic;
+    color: #014f86;
+    border-style: solid;
+    border-color: #52b69a;
+    margin-bottom: 1cm;
+    border-radius: 5mm;
+}   
